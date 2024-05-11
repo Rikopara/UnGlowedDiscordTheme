@@ -2446,14 +2446,14 @@ body {
 }
 .wrapper_a62503.mentioned_fa6fd2 {
   border-color: hsla(var(--mention-hsl), var(--mention-opacity));
-  box-shadow: inset 0px 0px 10px 3px hsla(var(--mention-hsl), var(--mention-opacity)), 0px 0px 13px 4px hsla(var(--mention-hsl), var(--mention-opacity));
+  box-shadow: inset 0px 0px 0px 3px hsla(var(--mention-hsl), var(--mention-opacity)), 0px 0px 0px 4px hsla(var(--mention-hsl), var(--mention-opacity));
 }
 .wrapper_a62503.mentioned_fa6fd2:before {
   display: none;
 }
 .wrapper_a62503.replying__38514 {
   border-color: hsla(var(--reply-hsl), var(--reply-opacity));
-  box-shadow: inset 0px 0px 10px 3px hsla(var(--reply-hsl), var(--reply-opacity)), 0px 0px 13px 4px hsla(var(--reply-hsl), var(--reply-opacity));
+  box-shadow: inset 0px 0px 0px 3px hsla(var(--reply-hsl), var(--reply-opacity)), 0px 0px 0px 4px hsla(var(--reply-hsl), var(--reply-opacity));
 }
 .wrapper_a62503.replying__38514:before {
   display: none;
